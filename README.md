@@ -1,5 +1,6 @@
 # mineracao_masterchefbrasil
 Repositório para o Trabalho Prático 1 da disciplina "Mineração e análise de dados, redes, textos e imagens"
+
 Grupo: Bianca Muniz, Renan Cavalcante, Sara Magalhães e Talita Burbulhan
 **Tema: Masterchef Brasil**
 
